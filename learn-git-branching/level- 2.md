@@ -1,7 +1,7 @@
 # Learn Git Branching — Level 2 Notes
 
 
-## Topics Completed — Level 2
+## Topics Completed 
 
 
 1. **Introduction to Git Commits**
