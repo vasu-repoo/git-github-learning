@@ -1,5 +1,16 @@
 # Learn Git Branching — Level 2 Notes
 
+
+## Topics Completed — Level 2
+
+
+1. **Introduction to Git Commits**
+2. **Branching in Git**
+3. **Merging in Git**
+4. **Introduction to Rebase**
+
+
+
 ## 1. Important Git Concepts Learned
 
 ### 1. Detaching HEAD
