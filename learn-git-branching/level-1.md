@@ -1,14 +1,14 @@
-# Learn Git Branching — Level 1 **Completed**
+# Learn Git Branching — Level 1 Notes
 
-**Website:** https://learngitbranching.js.org/
 
 ## Topics Completed
+
 1. Introduction to Git Commits
 2. Branching in Git
 3. Merging in Git
 4. Introduction to Rebase
 
-# Learn Git Branching — Level 1 Notes
+
 
 ## 1. Important Git Commands
 
