@@ -78,7 +78,7 @@ git revert <commit-hash>
 ```
 
 - Preserves the existing commit history.
-- Adds a new commit that undoes the selected commit's changes.
+- Adds a new commit that undoes to the selected commit's changes.
 - Often safer for changes that have already been pushed and shared.
 
 ---
