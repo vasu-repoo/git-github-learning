@@ -89,7 +89,6 @@ git push origin v1.0
 ## 5. Practice Question
 
 **Question:** What is the difference between a Git tag and a Git branch?
-
 **Answer:** A tag normally marks a specific commit, such as a release, while a branch is a movable reference that advances as new commits are made.
 
 **Learning Resource:** [Learn Git Branching](https://learngitbranching.js.org/)
