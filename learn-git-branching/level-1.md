@@ -102,12 +102,10 @@ This reapplies the commits from `feature` on top of `main`.
 ```bash
 git status
 git branch
-git switch -c practice
 git add .
 git commit -m "Practice Git commands"
 git switch main
 git merge practice
-git log --oneline --graph --all
 ```
 
 **Learning resource:** [Learn Git Branching](https://learngitbranching.js.org/)
